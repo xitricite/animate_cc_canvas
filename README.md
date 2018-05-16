@@ -1,6 +1,9 @@
 # Click to play canvas with Animate cc
 
-![example](example.gif)
+[View it](https://xitricite.github.io/animate_cc_canvas/play_pause.html)
+
+Example.gif
+![https://xitricite.github.io/animate_cc_canvas/play_pause.html](example.gif)
 
 ### To do
 Find out how to do a:
